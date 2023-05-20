@@ -64,6 +64,7 @@ function Jobseeeker() {
       </div>
       <div className="search">
         <Search />
+        <Link to="/jobseekerlist">get job</Link>
       </div>
       <p style={{ width: "100%", marginTop: "180px" }}>GET JOBS IN 3 PHASES</p>
       <img src={stepjs} alt="menu" className="imgback2" />
